@@ -3,3 +3,13 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+*.pyc
+__pycache__/
+_posts/**/*_IPYNB_2_.md
+nohup.out
+Gemfile.lock
+node_modules
+.DS_Store
+.env
+_posts/2024-06-25-RDS-and-Flask-Setup-
+venv/
